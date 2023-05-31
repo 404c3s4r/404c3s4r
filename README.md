@@ -1,5 +1,5 @@
 ### Olá. 
-Aqui você pode encontrar estudos pessoais e algumas coisas aleatórias.
+Aqui você pode encontrar estudos pessoais e algumas coisas aleatórias. Cuidado com os malwares!! :)
   
  
 ## Tecnologias:
