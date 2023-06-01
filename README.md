@@ -1,4 +1,6 @@
 ### Olá. 
+
+Eu acredito que a tecnologia pode mudar o mundo quando combinada com educação de qualidade e inclusão social.
 Aqui você pode encontrar estudos pessoais e algumas coisas aleatórias. Cuidado com os malwares!! :)
   
  
