@@ -3,7 +3,7 @@
 Eu acredito que a tecnologia pode mudar o mundo quando combinada com educação de qualidade e inclusão social.
 Aqui você pode encontrar estudos pessoais e algumas coisas aleatórias. Cuidado com os malwares!! :)
 
-Gostou de alguma coisa? 
+Gostou de alguma coisa? Considere me pagar um café: 
 ```bash
   Bitcoin: bc1qtmrgnk8hpaps7pj242uhfsej2dawv8w4wva4r9h5d0t4tggmpf7s3nyaty
 ```
