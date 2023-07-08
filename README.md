@@ -4,8 +4,11 @@ Aqui você pode encontrar estudos pessoais e algumas coisas aleatórias. Cuidado
 ###
 <div align="center">
     <img height="200" src="https://github.com/robertocoliver/robertocoliver/assets/102238044/13b25a7e-90bf-46f2-aa7a-0fdaaccf3849" />
-    <img src="https://github-readme-stats.vercel.app/api?username=robertocoliver&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=robertocoliver&show_icons=true&theme=radical&locale=pt-br" />
 </div>
+
+
+
 
 ###
 
