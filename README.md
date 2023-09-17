@@ -14,7 +14,7 @@ Aqui você pode encontrar estudos pessoais e algumas coisas aleatórias. Cuidado
 
 Gostou de alguma coisa? Considere me pagar um café: 
 ```bash
-  Bitcoin: bc1qtmrgnk8hpaps7pj242uhfsej2dawv8w4wva4r9h5d0t4tggmpf7s3nyaty
+  Bitcoin: bc1qsjqy3y3jkfmgdf67ym8vat6cgg4pph2zlvk0em
 ```
 
 
