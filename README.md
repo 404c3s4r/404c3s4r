@@ -12,10 +12,6 @@ Aqui você pode encontrar estudos pessoais e algumas coisas aleatórias. Cuidado
 
 ###
 
-Gostou de alguma coisa? Considere me pagar um café: 
-```bash
-  Bitcoin: bc1qsjqy3y3jkfmgdf67ym8vat6cgg4pph2zlvk0em
-```
 
 
 ## Tecnologias:
