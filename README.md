@@ -1,6 +1,6 @@
 ### Olá. 
 Eu acredito que a tecnologia pode mudar o mundo quando combinada com educação de qualidade e inclusão social.
-Aqui você pode encontrar estudos pessoais e algumas coisas aleatórias. Cuidado com os malwares!! :)
+Aqui você pode encontrar estudos pessoais e coisas aleatórias. Não me considero um programador, apenas faço uns scripts :)
 ###
 <div align="center">
     <img height="200" src="https://github.com/robertocoliver/robertocoliver/assets/102238044/13b25a7e-90bf-46f2-aa7a-0fdaaccf3849" />
