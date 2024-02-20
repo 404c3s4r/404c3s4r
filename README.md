@@ -1,22 +1,27 @@
 ###
-### Hello.
-I believe that technology can change the world when combined with quality education and social inclusion. Here you can find personal studies and random things.
 ###
 <div align="center">
-    <img height="200" src="https://github.com/robertocoliver/robertocoliver/assets/102238044/13b25a7e-90bf-46f2-aa7a-0fdaaccf3849" />
-    <img src="https://github-readme-stats.vercel.app/api?username=robertocoliver&show_icons=true&theme=radical&locale=pt-br" />
+    <img height="400" src="https://github.com/robertocoliver/robertocoliver/assets/102238044/13b25a7e-90bf-46f2-aa7a-0fdaaccf3849" />
 </div>
 
-<h3 align="center">tenho que escrever alguma coisa aqui </h3>
+<h3 align="center">I believe that technology can change the world when combined with quality education and social inclusion. Here you can find personal studies and random things.</h3>
 
 - 🌱 Undergraduate student in **Computer Science and Computer Networks**
 - 📝 I regularly write articles on [https://medium.com/@robertocoliver](https://medium.com/@robertocoliver)
 - 💬 Ask me about **cybersecurity**
 - 📄 Know about my experiences [https://www.linkedin.com/in/robertocoliver/](https://www.linkedin.com/in/robertocoliver/)
 
+#### 📕 Check out my latest articles
+<!-- BLOG-POST-LIST:START -->
+- [SegNetSim Project. Part 1.](https://medium.com/@robertocoliver/projeto-segnetsim-parte-2-6eacba7f8886)
+<!-- BLOG-POST-LIST:END -->
+
 
 ###
 ## Languages and Tools:
+<details>
+  <summary><b>🛠️ Several languages and tools that I use:</b></summary>
+  <br/>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
@@ -43,6 +48,7 @@ I believe that technology can change the world when combined with quality educat
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
