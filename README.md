@@ -45,5 +45,6 @@
 
 #### 📕 Check out my latest articles
 <!-- BLOG-POST-LIST:START -->
-- [SegNetSim Project. Part 1.](https://medium.com/@robertocoliver/projeto-segnetsim-parte-2-6eacba7f8886)
+ [SegNetSim Project. Part 1.](https://medium.com/@robertocoliver/projeto-segnetsim-parte-2-6eacba7f8886)<br>
+ [SegNetSim Project. Part 2.](https://medium.com/@robertocoliver/projeto-segnetsim-parte-2-2882670a1634)
 <!-- BLOG-POST-LIST:END -->
