@@ -5,7 +5,7 @@
 <br/>
 <h3 align="center">I believe that technology can change the world when combined with quality education and social inclusion. Here you can find personal studies and random things.</h3>
 
-- 🔭 Undergraduate student in Computer Science and Computer Networks
+- 🔭 Undergraduate student in Computer Science and Information Security.
 - 🌱 I use daily  `.python `,  `.javascript`, `.php`
 - 📝 I regularly write articles on https://medium.com/@robertocoliver
 - ⚡ Passionate about surfing, long bicycle rides, history, politics, and arts.
