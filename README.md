@@ -6,7 +6,7 @@
 - **Name:** Roberto Oliveira;
 - **Age:** 24;
 - **Living in:** Sergipe - SE, Brazil;  
-- **🌱 Stack:** Python, C/C++;
+- **🌱 Stack:** Python, C/C++, Rust;
 - **Learning:** Rust, blockchain;   
 - **🔭 University:** Computer Science and Information Security;
 -  **💬 Ask me about** Ask me about cybersecurity;
